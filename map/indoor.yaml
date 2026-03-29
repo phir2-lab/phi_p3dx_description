@@ -1,4 +1,4 @@
-image: indoor.pgm
+image: indoor_costmap.pgm
 mode: trinary
 resolution: 0.05
 origin: [-19.4, -12.7, 0]
